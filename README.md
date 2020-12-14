@@ -1,2 +1,3 @@
-# UR_Vaja_10
-Domača naloga za UR
+# UR Vaja 10
+Domača naloga za UR.
+Prva sprememba readme.md 
